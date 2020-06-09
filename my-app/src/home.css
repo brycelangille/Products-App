@@ -1,0 +1,25 @@
+
+.products {
+  align-items: center;
+  box-shadow: 0 0 3px 1px #cecece;
+    display: flex;
+    flex-flow: column wrap;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.productimg {
+width: 300px;
+height: auto;
+}
+
+.productname {
+padding: 10px 0;
+font-size: 20px;
+font-weight: bold;
+}
+
+.productprice {
+  padding: 10px;
+  font-size: 24px;
+}
